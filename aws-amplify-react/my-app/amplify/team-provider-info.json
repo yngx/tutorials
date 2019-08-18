@@ -1,0 +1,19 @@
+{
+    "tutorial": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-amplify-react-tutorial-20190817155453-authRole",
+            "UnauthRoleArn": "arn:aws:iam::095262178270:role/aws-amplify-react-tutorial-20190817155453-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::095262178270:role/aws-amplify-react-tutorial-20190817155453-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "aws-amplify-react-tutorial-20190817155453-deployment",
+            "UnauthRoleName": "aws-amplify-react-tutorial-20190817155453-unauthRole",
+            "StackName": "aws-amplify-react-tutorial-20190817155453",
+            "StackId": "arn:aws:cloudformation:us-east-2:095262178270:stack/aws-amplify-react-tutorial-20190817155453/437b8ec0-c131-11e9-a370-022c6f51bf82"
+        },
+        "categories": {
+            "auth": {
+                "awsamplifyreact629a7aed": {}
+            }
+        }
+    }
+}
